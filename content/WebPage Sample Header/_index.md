@@ -7,10 +7,12 @@ weight: 1
 image:
   filename: https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg
   caption: Stock Image
+---
+
 # icon: book
 # icon_pack: fas
 
 # Page metadata.
 date: '2018-09-09T00:00:00Z'
 toc: false
----
+
