@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 🤖 Machine Learning
-linktitle: 🤖 Machine Learning
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+title: ☁️ Cloud Computing Devops Example
+linktitle: ☁️ Web Page linked to Git Repository and hosted with netlify CDN
+summary: Used Wowchemy's docs layout for educational purposes, no infringement intended.
 weight: 1
 # icon: book
 # icon_pack: fas
