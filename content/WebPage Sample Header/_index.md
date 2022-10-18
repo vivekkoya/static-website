@@ -5,10 +5,8 @@ linktitle: ☁️ Cloud Computing Devops Example
 summary: Used Wowchemy's docs layout for educational purposes, no infringement intended.
 
 <img src="https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg" alt="A stock image" />
+![A stock image](https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg)
 
-image:
-  filename: https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg
-  caption: Stock Image
 weight: 1
 
 # icon: book
