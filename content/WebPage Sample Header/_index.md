@@ -4,10 +4,10 @@ title: ☁️ Web Page linked to Git Repository and hosted with netlify CDN
 linktitle: ☁️ Cloud Computing Devops Example
 summary: Used Wowchemy's docs layout for educational purposes, no infringement intended.
 
-
-![Alt text](https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg "A stock image")
-
-# weight: 1
+image:
+  filename: https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg
+  caption: Stock Image
+weight: 1
 
 # icon: book
 # icon_pack: fas
