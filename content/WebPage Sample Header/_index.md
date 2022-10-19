@@ -5,6 +5,6 @@ linktitle: ☁️ Cloud Devops
 summary: Used Wowchemy's docs layout for educational purposes, no infringement intended.
 
 image:
-  filename: covers/mountain-landscape.jpg
+  filename: covers/lzhang_uzumaki.jpg
   caption: Stock Image of Mountain
 ---
