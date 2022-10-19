@@ -7,4 +7,4 @@ summary: Used Wowchemy's docs layout for educational purposes, no infringement i
 image:
   filename: covers/mountain-landscape.jpg
   caption: Stock Image of Mountain
-  ---
+---
