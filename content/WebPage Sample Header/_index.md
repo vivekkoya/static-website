@@ -4,7 +4,8 @@ title: ☁️ Web Page linked to Git Repository and hosted with netlify CDN
 linktitle: ☁️ Cloud Computing Devops Example
 summary: Used Wowchemy's docs layout for educational purposes, no infringement intended.
 
-![A stock image showing a mountain.](Mountain-Landscape.jpeg "A stock image")
+
+![A stock image showing a mountain.](mountain-landscape.jpg "A stock image")
 
 # weight: 1
 
