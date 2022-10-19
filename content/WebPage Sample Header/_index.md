@@ -5,7 +5,7 @@ linktitle: ☁️ Cloud Computing Devops Example
 summary: Used Wowchemy's docs layout for educational purposes, no infringement intended.
 
 
-![A stock image showing a mountain.](content/WebPage Sample Header/mountain-landscape.jpg "A stock image")
+![Alt text](https://www.devotional-reflections-from-the-bible.com/images/2020RF21.jpg "A stock image")
 
 # weight: 1
 
